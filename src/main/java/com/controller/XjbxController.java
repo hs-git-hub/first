@@ -25,7 +25,7 @@ public class XjbxController {
 	public void xx1(@RequestBody(required=false) Map<String,Object> map) {
 //		Object object = map.get("pageNo");
 //		System.out.println(object+"////////////////");
-		System.out.println("???<><><<><><><><><");
+		System.out.println("???<><fff<><><><");
 	}
 	@PostMapping("/xx2")
 	public List<Emp> xx2(@RequestBody Emp emp) {
